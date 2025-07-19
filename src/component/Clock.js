@@ -23,6 +23,7 @@ const Clock = () => {
   return (
     <div className="clock-container">
       <h4 className="white">Analog and Digital Clock</h4>
+      <h6>Clock</h6>
       <div className="analog-clock">
         <div
           className="dot red-dot"
