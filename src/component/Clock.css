@@ -7,6 +7,11 @@
     justify-content: center;
   }
 
+  .yellow {
+    color: yellow;
+    font-size: 24px;
+  }
+
   .analog-clock {
     position: relative;
     width: 300px;
